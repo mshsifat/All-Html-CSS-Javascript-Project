@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  font-family: 'Inter';
+}
+
+.login-form {
+  width: 350px;
+  height: 407px;
+  background-color: red;
+  background: #fff;
+  box-shadow: 6px 0px 12px 12px rgba(0, 0, 0, 0.12);
+  margin-left: 33%;
+  margin-top: 100px;
+}
+
+.img-part {
+  width: 60px;
+  margin-top: 27px;
+  margin-left: 135px;
+}
+
+.login-text {
+  color: #667eea;
+  font-size: 30px;
+  margin-top: 4px;
+  margin-left: 127px;
+}
+
+.signin-text {
+  color: #4a5568;
+  font-size: 12px;
+  margin-top: 4px;
+  margin-left: 100px;
+}
+
+.input {
+  margin-left: 25px;
+}
+
+.input-username {
+  background-color: #edf2f7;
+  border: none;
+  padding: 10px 60px;
+  margin-top: 16px;
+}
+
+.input-password {
+  background-color: #edf2f7;
+  border: none;
+  padding: 10px 60px;
+  margin-top: 10px;
+}
+
+.input-login {
+  background-color: #667eea;
+  border: none;
+  padding: 10px 131px;
+  margin-top: 13px;
+  color: white;
+  font-size: 15px;
+}
+
+.reset-setup {
+  margin-top: 10px;
+  color: #4a5568;
+  font-size: 13px;
+  margin-left: 55px;
+}
+
+.register-acc {
+  border: 1px solid gray;
+  padding: 10px 75px;
+  margin-top: 13px;
+  color: #4a5568;
+  font-size: 15px;
+  margin-left: 25px;
+}
+
+.user-img {
+  margin-top: 80px;
+  margin-left: 50px;
+}
